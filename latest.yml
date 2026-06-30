@@ -1,8 +1,8 @@
-version: 1.1.4
+version: 1.1.5
 files:
-  - url: https://github.com/sdafgdgse/mineradio-updates/releases/download/v1.1.4/Mineradio.Setup.1.1.4.exe
-    sha512: 6KAqZojHXVpqmXVhFuJaI7SEPTOjE5osQRLt5TzL2w7QY77s/IV5liDgLRPIsmb3gkIeGmfESYCO77bU2Rr5JA==
-    size: 210338042
-path: Mineradio Setup 1.1.4.exe
-sha512: 6KAqZojHXVpqmXVhFuJaI7SEPTOjE5osQRLt5TzL2w7QY77s/IV5liDgLRPIsmb3gkIeGmfESYCO77bU2Rr5JA==
-releaseDate: '2026-06-29T17:06:36.690Z'
+  - url: https://github.com/sdafgdgse/mineradio-updates/releases/download/v1.1.5/Mineradio.Setup.1.1.5.exe
+    sha512: AAUEzyECchw0K/qvDa/sRVSeJIYhvgV6dwXVFP2ZXNmzZkQNVMnkGZ+d95qj8ck4/mvpcvR5e/ayyhNRKsITgQ==
+    size: 210401952
+path: Mineradio Setup 1.1.5.exe
+sha512: AAUEzyECchw0K/qvDa/sRVSeJIYhvgV6dwXVFP2ZXNmzZkQNVMnkGZ+d95qj8ck4/mvpcvR5e/ayyhNRKsITgQ==
+releaseDate: '2026-06-30T03:30:29.543Z'
